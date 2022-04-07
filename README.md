@@ -1,5 +1,4 @@
 # Share The Best: Fast Photo Selection and Enhancement System
-By Yilei Cao, Yixing Gao, Nora Horanyi, and Hyung Jin Chang
 
 <img src="/img/IMAGE1-1.png" width="500" />
 
